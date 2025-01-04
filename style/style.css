@@ -1,0 +1,274 @@
+ body {
+
+     background-color: white;
+ }
+
+ nav {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+ }
+
+ ul {
+     list-style-type: none;
+     display: flex;
+
+ }
+
+ img {
+     width: 100px;
+ }
+
+ a {
+     text-decoration: none;
+     margin: 10px;
+     color: black;
+ }
+
+ .nav ul li div {
+     background-color: yellow;
+     padding: 10px;
+     border-radius: 10px;
+ }
+
+ .hello {
+     display: flex;
+     justify-content: flex-end;
+     background-color: #024d81;
+     padding: 10px;
+
+ }
+
+ .hello article {
+     display: flex;
+     align-items: center;
+ }
+
+ .hello article div i {
+     color: black;
+     padding: 10px;
+     text-align: center;
+ }
+
+ .hello article div a {
+     color: black;
+     text-decoration: none;
+     margin: 10px;
+ }
+
+ .hero {
+     padding: 100px 0px 0px 100px;
+ }
+
+ .hero .heroa1 {
+     font-size: 48px;
+     font-weight: 400;
+     padding: 10px;
+ }
+
+ .hero .heroa2 {
+     font-size: 24px;
+     font-weight: 400;
+     padding: 10px;
+ }
+
+ .hero .heroa3 {
+     background-color: #024d81;
+     padding: 10px;
+     border-radius: 3px;
+     width: 150px;
+     color: white;
+ }
+
+ .leble {
+     display: flex;
+     justify-content: space-evenly;
+     padding: 150px;
+ }
+
+ .leble article img {
+     margin: 0px 30px 0px 30px;
+     width: 200px;
+ }
+
+ .leble article i {
+     color: yellow;
+ }
+
+ .leble article {
+     border-right: 2px solid gray;
+ }
+
+ .Emerging .Emerginga3d1 {
+     background-image: url(https://pragetx.com/images/iot-img.jpg);
+     width: 300px;
+     height: 400px;
+     background-size: cover;
+     border-radius: 10px;
+ }
+
+ .Emerging .Emerginga3d2 {
+     background-image: url(https://pragetx.com/images/ai-ml-img.jpg);
+     width: 300px;
+     height: 400px;
+     background-size: cover;
+     border-radius: 10px;
+ }
+
+ .Emerging .Emerginga3d3 {
+     background-image: url(https://pragetx.com/images/business-intelligence-analytics-img.jpg);
+     width: 300px;
+     height: 400px;
+     background-size: cover;
+     border-radius: 10px;
+ }
+
+ .Emerging article {
+     display: flex;
+     justify-content: space-evenly;
+     padding: 20px;
+ }
+
+ .Emerging article div {
+     text-align: center;
+ }
+
+ .Emerging .bol {
+     font-size: 48px;
+     font-weight: 400px;
+ }
+
+ .Emerging article .size {
+     font-size: 20px;
+     font-style: italic;
+     font-weight: 400px;
+ }
+
+ .international {
+     background-image: url(https://pragetx.com/images/our-benefits-img.jpg);
+     width: 100%;
+     /* height: 200px;  */
+     text-align: center;
+     font-size: 48px;
+     padding: 70px 10px 70px 10px;
+     margin-top: 50px;
+     color: white;
+ }
+
+ /* business */
+ .business .businessa3d1 {
+     background-image: url(https://pragetx.com/images/custom_software_development.png);
+     width: 200px;
+     height: 200px;
+     background-size: cover;
+     border-radius: 10px;
+ }
+
+ .business .businessa3d2 {
+     background-image: url(https://pragetx.com/images/devops_solutions.png);
+     width: 200px;
+     height: 250px;
+     background-size: cover;
+     border-radius: 10px;
+ }
+
+ .business .businessa3d3 {
+     background-image: url(https://pragetx.com/images/enterprise_solutions.png);
+     width: 200px;
+     height: 300px;
+     background-size: cover;
+     border-radius: 10px;
+ }
+
+ .business .businessa3d4 {
+     background-image: url(https://pragetx.com/images/mobile_app_development.png);
+     width: 200px;
+     height: 250px;
+     background-size: cover;
+     border-radius: 10px;
+ }
+
+ .business .businessa3d5 {
+     background-image: url(https://pragetx.com/images/qa_and_testing.png);
+     width: 200px;
+     height: 200px;
+     background-size: cover;
+     border-radius: 10px;
+ }
+
+ .business article {
+     display: flex;
+     justify-content: space-evenly;
+     margin-top: 40px;
+ }
+
+ .business {
+     padding-top: 50px;
+     text-align: center;
+ }
+
+ .business .businessa3 {
+     align-items: center;
+ }
+
+ .business .fon {
+     font-size: 36px;
+     font-weight: 500;
+ }
+
+ .business .fun2 {
+     font-size: 20px;
+     font-style: italic;
+     font-weight: 400;
+ }
+
+ .project {
+
+     text-align: center;
+     padding: 50px;
+ }
+
+ .project .projecta3d1 {
+     display: flex;
+     justify-content: space-evenly;
+     /* border-bottom: 2px solid black; */
+     margin: 60px 200px 10px 200px;
+ }
+
+ .project .projecta1 {
+     font-size: 44px;
+
+ }
+
+ .project .projecta2 {
+     font-size: 24px;
+     font-style: italic;
+     font-weight: 600;
+ }
+ .wall{
+    background-color: #024d81;
+    text-align: center;
+ }
+ .wall .walla1 div{
+background-color: white;
+margin: 50px;
+width: 300px;
+padding: 15px;
+border-radius: 20px;
+
+ }
+ .wall .walla1{
+    display: flex;
+    justify-content: space-evenly;
+ }
+ .wall .walla2{
+    font-size: 36px;
+    color: white;
+ }
+ .wall .walla3{
+    font-style: italic;
+    font-weight: 500;
+    padding: 20px 0px 0px 0px ;
+    color: white;
+    font-size: 20px;
+ }
